@@ -1,0 +1,23 @@
+{
+  "piedra": {
+    "lagarto": "Piedra aplasta lagarto",
+    "tijera": "Piedra aplasta tijera"
+  },
+  "papel": {
+    "spock": "Papel refuta Spock",
+    "piedra": "Papel cubre piedra"
+  },
+  "tijera": {
+    "lagarto": "Tijera decapita lagarto",
+    "papel": "Tijera corta papel"
+  },
+  "lagarto": {
+    "spock": "Lagarto envenena Spock",
+    "papel": "Lagarto come papel"
+  },
+  "spock": {
+    "tijera": "Spock destroza tijera",
+    "piedra": "Spock vaporiza piedra"
+  }
+}
+

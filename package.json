@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@sentry/node": "7.45.0",
+    "@sentry/tracing": "7.45.0",
+    "vercel": "28.18.1"
+  }
+}
