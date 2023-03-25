@@ -1,4 +1,8 @@
 {
+  "name": "piedra-papel-tijera-lagarto-spock-serverless",
+  "version": "1.0.0",
+  "description": "Serverless para jugar piedra papel tijera lagarto spock",
+  "author": "Keiber Urbila",
   "dependencies": {
     "@sentry/node": "7.45.0",
     "@sentry/tracing": "7.45.0",
