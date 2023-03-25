@@ -14,6 +14,6 @@ const RULES = `"Piedra, papel, tijera, lagarto, Spock" es una variación del cl�
 Estas reglas pueden ser difíciles de recordar, ¡así que asegúrese de practicar antes de enfrentar a un oponente habilidoso en "Piedra, papel, tijera, lagarto, Spock"!
 
 Para user este serveless dirijete al endpoint "/api/play" y no olvides enviar el parametro "hand" con tu jugada. Por ejemplo:
-https://xxxxxxxxxxxxxx/api/play?hand=spock`
+https://pptls-serverless.vercel.app/api/play?hand=spock`
 
 export default RULES
