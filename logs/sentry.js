@@ -1,10 +1,8 @@
 import * as Sentry from "@sentry/node";
 import "@sentry/tracing";
 
-const dsn = process.env.SENTRY_DNS;
-
 Sentry.init({
-  dsn,
+  dsn: process.env.SENTRY_DSN,
   tracesSampleRate: 1.0,
 });
 
